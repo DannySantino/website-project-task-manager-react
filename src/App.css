@@ -20,7 +20,7 @@
   background-color: #292f38;
   width: 25%;
   min-width: 450px;
-  height: 600px;
+  height: 700px;
   padding: 30px;
   box-sizing: border-box;
   border-radius: 5px;
@@ -161,4 +161,36 @@
   text-align: center;
   font-size: 18px;
   margin-top: 20px;
+}
+
+footer {
+  margin-top: 60px;
+  text-align: center;
+  font-family: 'Josefin Slab', serif;
+}
+
+footer p {
+  color: #ccc;
+  margin-bottom: 10px;
+}
+
+footer a {
+  color: #fff;
+}
+
+/* about page */
+
+.about {
+  height: 400px;
+  text-align: center;
+}
+
+.about h3 {
+  color: #ccc;
+  margin: 20px;
+  font-family: 'Josefin Sans', serif;
+}
+
+.about a {
+  color: #fff;
 }
